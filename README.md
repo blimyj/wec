@@ -14,5 +14,8 @@ To run the program:
 - Note that the csv files must use Unix LF Line endings!
 
 Example of Program:
+
 ![Example 1](https://github.com/blimyj/wec/blob/main/Examples/Example%201.gif)
+
+
 ![Example 2](https://github.com/blimyj/wec/blob/main/Examples/Example%202.gif)
